@@ -30,11 +30,42 @@ ul {
     text-decoration: none;
 }
 .container {
-    width: 1277px;
+   width: 1277px;
    background-color: #FFE550;
    padding: 140px 0 126px 0;
+   margin: 0 auto;
 
 }
+
+.titl-list-say {
+font-family: Roboto;
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-align: left;
+max-width: 501px;
+line-height: 1.07;
+letter-spacing: 0.02em;   
+margin-left: 32px; 
+margin-bottom: 20px;
+
+
+}
+.row {
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
 .say-list {
-    
+    display: flex;
+}
+.desc {
+    width: 501px;
+    height: 232px;
+    background-color: #FEFEFE;
+    border-radius: 0px 30px 30px 30px;
+
 }
